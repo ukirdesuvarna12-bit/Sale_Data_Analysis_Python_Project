@@ -1,0 +1,14 @@
+# Node.js
+Web_Dashboard/node_modules/
+Web_Dashboard/dist/
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
